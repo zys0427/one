@@ -1,0 +1,14 @@
+{
+    "name": "zhangys/test001",
+    "description": "test001",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangys",
+            "email": "348714556@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

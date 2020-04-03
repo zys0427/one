@@ -1,5 +1,5 @@
 <?php
-namespace Zys;
+namespace Zys\Test;
 class Hello{
 	function getStr($a){
 		echo 111;

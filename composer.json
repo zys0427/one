@@ -9,6 +9,10 @@
             "email": "348714556@qq.com"
         }
     ],
+    
+    "autoload": {
+        "psr-4": { "Zys\\Test\\": "src/" }
+    },
     "minimum-stability": "beta",
     "require": {}
 }
